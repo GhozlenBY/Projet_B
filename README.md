@@ -22,7 +22,7 @@ This sketch from the Arduino BLE library provided crucial insights for our proje
 
 ![image](https://github.com/GhozlenBY/Projet_B/assets/148441001/cce915df-dfaa-4c78-bc37-d110dba9cce1)
 
-# Connection with NOde Red
+# Connection with Node Red
 First we need to download Node Red on the machine or a Raspberry Pi.
 Then, to perform data transmission between the Arduino and Node-RED, you need to download the "ble-sense" packages using this command.
 ![image](https://github.com/GhozlenBY/Projet_B/assets/148441001/44d7f13d-7e95-42e2-b7ba-afddb0cb8b8a)
