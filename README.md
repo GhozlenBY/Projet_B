@@ -38,6 +38,9 @@ BLE Scanner node allows you to scan BLE devices. A message with start as a topic
 
 BLE Connect node provides direct connection to the peripheral. This node must not be used alone. The scanning should be in progress to establish a connection. It takes JSON Object as an input. The service and characteristics UUIDs should be provided. If not, it will try to subscribe all advertised characteristics.
 
+so to establish the connection you run Node red and connect these nodes:
+![image](https://github.com/GhozlenBY/Projet_B/assets/148441001/87472a5a-e434-4c14-9d07-ae494dea34d1)
+
 ![image](https://github.com/GhozlenBY/Projet_B/assets/148441001/aa11fc60-8729-473f-a1d6-6eb52776b86c)
 
 
